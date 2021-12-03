@@ -9,3 +9,4 @@ dependencyResolutionManagement {
 rootProject.name = "Toaster"
 include ':app'
 include ':toastme'
+include ':Library'
